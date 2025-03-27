@@ -96,7 +96,6 @@
 <!-- Fixed GitHub Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=miki-714&theme=dark&date_format=j%20M%20Y&background=000000&ring=FFFFFF&stroke=FF0000&dates=FFFFFF&text=00FFFF&currStreakLabel=FFD700&sideNums=FFD700&currStreakNum=FFD700&fire=FF4500" alt="GitHub Streak Stats" />
 </p>
----
 
 ### 🏆 GitHub Achievements:
 <p align="center"> 
